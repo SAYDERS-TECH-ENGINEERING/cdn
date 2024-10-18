@@ -1,0 +1,93 @@
+html,body {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	height: 100%;
+}
+#container {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	height: 100%;
+}
+* {
+	font-family: Calibri;
+}
+a {
+	opacity: 0.6;
+	cursor: pointer;
+}
+a:hover {
+	opacity: 1;
+}
+a:active {
+	opacity: 0.6;
+}
+.jconfirm.jconfirm-white .jconfirm-bg, .jconfirm.jconfirm-light .jconfirm-bg {
+	background: #000000;
+	opacity: 0.8;
+}
+.inp {
+	display: block;
+	position: relative;
+	overflow: hidden;
+	padding: 5px;
+}
+.inp span {
+	display: block;
+	position: relative;
+	font-size: 0.8em;
+	opacity: 0.7;
+	margin-left: 6px;
+	margin-bottom: 3px;
+}
+.inp input {
+	display: block;
+	position: relative;
+	font-size: 1em;
+	border: none;
+	outline: none;
+	padding: 5px 10px;
+	border-radius: 6px;
+	width: calc(100% - 20px);
+	background: #eeeeee;
+	font-weight: 600;
+}
+.inp textarea {
+	display: block;
+	position: relative;
+	font-size: 1em;
+	border: none;
+	outline: none;
+	padding: 5px 10px;
+	border-radius: 6px;
+	min-width: calc(100% - 20px);
+	width: calc(100% - 20px);
+	background: #eeeeee;
+	font-weight: 600;
+	height: 100px;
+}
+#hstat {
+	display: block;
+	position: absolute;
+	overflow: hidden;
+	left: 0;
+	bottom: 0;
+	color: #ffffff;
+	filter: invert(100%);
+	opacity: 1;
+}
+.inp a {
+	display: block;
+	position: relative;
+	font-weight: 600;
+	padding: 5px 10px;
+	border-radius: 5px;
+	background: #ff5722;
+	color: #ffffff;
+	text-align: center;
+}
+.jconfirm.jconfirm-white .jconfirm-box, .jconfirm.jconfirm-light .jconfirm-box {
+	max-width: 600px;
+	width: calc(100% - 60px) !important;
+}
