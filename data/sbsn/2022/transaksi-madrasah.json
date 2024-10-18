@@ -1,0 +1,38 @@
+[
+    {
+        "CSKL": "dbcc4aa1047b11ec268fe5ae46d59e06",
+        "NSKL": "MADRASAH",
+        "WTOK": "2c1dc79735b45d6e446388adf3370ce4",
+        "THN": "2022",
+        "UNAM": "MTSN 32 JAKARTA",
+        "DNAM": "KOTA ADM. JAKARTA SELATAN",
+        "WNAM": "DKI JAKARTA",
+        "USAT": "416296",
+        "PREG": "S0250424",
+        "PKEG": "Pelaksanaan Konstruksi Satu Paket",
+        "KNIL": "3620683504",
+        "SPDN": "241332415000195",
+        "SPDT": "22-08-2022",
+        "DSPD": "Pembayaran termin 04",
+        "SPMN": "724136701",
+        "KPRS": "20.00000001"
+    },
+    {
+        "CSKL": "dbcc4aa1047b11ec268fe5ae46d59e06",
+        "NSKL": "MADRASAH",
+        "WTOK": "5e10b1f13bffd65879e768ae03459515",
+        "THN": "2022",
+        "UNAM": "MTSN TARAKAN",
+        "DNAM": "KOTA TARAKAN",
+        "WNAM": "KALIMANTAN UTARA",
+        "USAT": "554031",
+        "PREG": "S0250422",
+        "PKEG": "Pengelolaan Kegiatan Satu Paket",
+        "KNIL": "7000692606",
+        "SPDN": "0",
+        "SPDT": "30-03-2022",
+        "DSPD": "Pembayaran Biaya lainnya",
+        "SPMN": "2026463224",
+        "KPRS": "28.94661054"
+    }
+]

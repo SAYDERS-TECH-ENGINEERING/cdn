@@ -1,0 +1,62 @@
+[{
+        "id": "173286",
+        "skl": "dbcc4aa1047b11ec268fe5ae46d59e06",
+        "icn": "fas fa-home",
+        "nam": "MADRASAH",
+        "tag": "MADRASAH",
+		"dsc": "MADRASAH",
+        "tms": "2024-10-09 13:35:19",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }, {
+        "id": "043344",
+        "skl": "33c2572ec2ba50d84458111aad93aed2",
+        "icn": "fas fa-university",
+        "nam": "KANTOR URUSAN AGAMA",
+        "tag": "KUA",
+		"dsc": "KANTOR URUSAN AGAMA",
+        "tms": "2024-10-09 13:54:01",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }, {
+        "id": "294887",
+        "skl": "bb6d427bb1a6edf59d40772cb7b17db1",
+        "icn": "fas fa-kaaba",
+        "nam": "PLHUT",
+        "tag": "HAJI",
+		"dsc": "PENYELENGGARAAN LAYANAN HAJI DAN UMRAH TERPADU",
+        "tms": "2024-10-09 13:54:27",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }, {
+        "id": "630251",
+        "skl": "8d8d59d444fff7ce74f306a2f3be789c",
+        "icn": "fab fa-magento",
+        "nam": "GEDUNG PLKI",
+        "tag": "PLKI",
+		"dsc": "PELAYANAN LITERASI KEAGAMAAN ISLAM",
+        "tms": "2024-10-09 14:00:49",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }, {
+        "id": "288727",
+        "skl": "",
+        "icn": "fas fa-graduation-cap",
+        "nam": "PERGURUAN TINGGI KEAGAMAAN ISLAM NEGERI",
+        "tag": "PTKIN",
+		"dsc": "PERGURUAN TINGGI KEAGAMAAN ISLAM NEGERI",
+        "tms": "2024-10-09 14:06:11",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }, {
+        "id": "071532",
+        "skl": "3cacfe3c14233ba7afd791888e5def4b",
+        "icn": "fas fa-building",
+        "nam": "ASRAMA HAJI",
+        "tag": "ASRAMA",
+		"dsc": "ASRAMA HAJI",
+        "tms": "2024-10-09 14:06:36",
+        "uid": "567025",
+        "unm": "ADMIN"
+    }
+]
